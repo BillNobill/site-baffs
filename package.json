@@ -1,0 +1,11 @@
+{
+  "name": "site-baffs",
+  "version": "1.0.0",
+  "description": "Site gerador de fichas para a loja Baffs, facilitando a compra de itens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BillNobill",
+  "license": "MIT"
+}
